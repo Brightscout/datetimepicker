@@ -11,6 +11,7 @@ The module is still published on `npm` under the old namespace (as documented) b
 ![Supports Android and iOS][support-badge]
 ![MIT License][license-badge]
 [![Lean Core Badge][lean-core-badge]][lean-core-issue]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBrightscout%2Fdatetimepicker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBrightscout%2Fdatetimepicker?ref=badge_shield)
 
 React Native date & time picker component for iOS, Android and Windows.
  
@@ -731,3 +732,7 @@ Add `PackageProviders().Append(winrt::DateTimePicker::ReactPackageProvider());` 
 [license-badge]: https://img.shields.io/npm/l/@react-native-community/slider.svg?style=flat-square
 [lean-core-badge]: https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg?style=flat-square
 [lean-core-issue]: https://github.com/facebook/react-native/issues/23313
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBrightscout%2Fdatetimepicker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBrightscout%2Fdatetimepicker?ref=badge_large)
